@@ -14,6 +14,8 @@ We can make a list like this:
 We can make a divider liek this
 ===============================
 
+
+This is another nonconflicting change
 # To make a new secton header
 
 ## To make a smaller one
