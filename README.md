@@ -14,7 +14,7 @@ We can make a list like this:
 * item 3
 
 This is another change but is safe
-We can make a divider liek this
+We can make a divider like this (unsafe change included!)
 ===============================
 
 
