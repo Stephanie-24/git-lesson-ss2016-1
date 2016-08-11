@@ -5,12 +5,15 @@ Test
 
 **This is bold**
 
+This is a change.
+
 We can make a list like this:
 
 * item 1
 * item 2
 * item 3
 
+This is another change but is safe
 We can make a divider liek this
 ===============================
 
