@@ -5,3 +5,8 @@ and another
 lets add some more line sfor 
 our second commit
 yay!
+
+
+Adding something halfway 
+
+Confused yet?
